@@ -22,7 +22,7 @@ payload-alsharabi Binaries Payloads Web Payloads Scripting Payloads Shellcode
 <img src="https://raw.githubusercontent.com/sadamshr3be/payload-alsharabi/main/Capture%2B_2021-08-11-13-27-22.png" width="257px" height="200px"/>
 
 
-# اوامر تثبيت الاداة
+# 
 
 
 • pkg update -y
